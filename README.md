@@ -38,6 +38,8 @@ The **HealthHub360** is a Java-based application developed using **Java Swing**,
 
 ---
 
+### High Level Component Diagram
+
 ![Wednesday_Group_30_Final_Project - High_level_component_diagram](https://github.com/user-attachments/assets/2846f71b-abbd-4ed2-ac53-c6a7da5df63d)
 
 ---
