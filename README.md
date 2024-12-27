@@ -15,29 +15,6 @@ The **HealthHub360** is a Java-based application developed using **Java Swing**,
 
 ---
 
-### Key Achievements  
-1. **Centralized Platform**: Developed a unified system integrating hospital, lab, pharmacy, and insurance operations.  
-2. **Role-Based Access Control**: Implemented secure access based on user roles, ensuring data privacy and efficient functionality segregation.  
-3. **Scalable Architecture**: Designed a scalable backend architecture to handle concurrent user operations seamlessly.  
-4. **Pre-Built Responses**: Includes inline chat support with predefined responses to assist patients and staff efficiently.
-5. **Comprehensive Medical Record Management**: Enabled easy tracking and retrieval of patient medical histories, lab results, and prescriptions.  
-6. **Automation**: Streamlined scheduling, billing, and insurance claim processes, reducing manual workload and errors.  
-7. **User-Friendly Interface**: Created an intuitive and responsive UI to enhance user experience for patients and administrators.  
-8. **Efficient Pharmacy Operations**: Built features to manage prescription fulfillment and inventory with predictive restocking.  
-
----
-
-### Impact  
-1. **Improved Healthcare Accessibility**: Enabled patients to schedule appointments, view medical records, and access lab results conveniently online.  
-2. **Operational Efficiency**: Automated core hospital processes, reducing time and resource wastage for doctors, administrators, and lab staff.  
-3. **Data Security and Privacy**: Leveraged robust authentication mechanisms to protect sensitive medical and personal data.  
-4. **Patient Satisfaction**: Enhanced transparency and convenience in accessing healthcare services, improving overall patient satisfaction.  
-5. **Global Reach**: Designed a system that can be adapted for diverse healthcare systems worldwide, making quality healthcare services universally accessible.  
-6. **Financial Transparency**: Streamlined billing and insurance claims, ensuring clarity and trust among stakeholders.  
-7. **Scalability**: Provided a flexible architecture that can support future expansions, including additional features like telemedicine and AI-based diagnostics.  
-
----
-
 ### High Level Component Diagram
 
 ![Wednesday_Group_30_Final_Project - High_level_component_diagram](https://github.com/user-attachments/assets/2846f71b-abbd-4ed2-ac53-c6a7da5df63d)
@@ -187,6 +164,29 @@ This system promotes seamless interaction among patients, doctors, staff, and ad
 ### **Custom Utility Packages:**
 1. **Chat Support** - For predefined question handling and chat sessions.
 2. **`ui.DatabaseUtil`** - For database utility and connection management.
+
+---
+
+### Key Achievements  
+1. **Centralized Platform**: Developed a unified system integrating hospital, lab, pharmacy, and insurance operations.  
+2. **Role-Based Access Control**: Implemented secure access based on user roles, ensuring data privacy and efficient functionality segregation.  
+3. **Scalable Architecture**: Designed a scalable backend architecture to handle concurrent user operations seamlessly.  
+4. **Pre-Built Responses**: Includes inline chat support with predefined responses to assist patients and staff efficiently.
+5. **Comprehensive Medical Record Management**: Enabled easy tracking and retrieval of patient medical histories, lab results, and prescriptions.  
+6. **Automation**: Streamlined scheduling, billing, and insurance claim processes, reducing manual workload and errors.  
+7. **User-Friendly Interface**: Created an intuitive and responsive UI to enhance user experience for patients and administrators.  
+8. **Efficient Pharmacy Operations**: Built features to manage prescription fulfillment and inventory with predictive restocking.  
+
+---
+
+### Impact  
+1. **Improved Healthcare Accessibility**: Enabled patients to schedule appointments, view medical records, and access lab results conveniently online.  
+2. **Operational Efficiency**: Automated core hospital processes, reducing time and resource wastage for doctors, administrators, and lab staff.  
+3. **Data Security and Privacy**: Leveraged robust authentication mechanisms to protect sensitive medical and personal data.  
+4. **Patient Satisfaction**: Enhanced transparency and convenience in accessing healthcare services, improving overall patient satisfaction.  
+5. **Global Reach**: Designed a system that can be adapted for diverse healthcare systems worldwide, making quality healthcare services universally accessible.  
+6. **Financial Transparency**: Streamlined billing and insurance claims, ensuring clarity and trust among stakeholders.  
+7. **Scalability**: Provided a flexible architecture that can support future expansions, including additional features like telemedicine and AI-based diagnostics.
 
 ---
 
