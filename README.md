@@ -5,7 +5,7 @@ The **HealthHub360** is an innovative healthcare platform designed to centralize
 
 ---
 
-### Technologies Used  
+### 🛠️ Technologies Used  
 - **Frontend**: Swing UI  
 - **Backend**: Java 
 - **Database**: SQL, SSMS  
@@ -15,7 +15,7 @@ The **HealthHub360** is a Java-based application developed using **Java Swing**,
 
 ---
 
-### High Level Component Diagram
+### High-Level Component Diagram
 
 ![Wednesday_Group_30_Final_Project - High_level_component_diagram](https://github.com/user-attachments/assets/2846f71b-abbd-4ed2-ac53-c6a7da5df63d)
 
@@ -167,7 +167,7 @@ This system promotes seamless interaction among patients, doctors, staff, and ad
 
 ---
 
-### Key Achievements  
+### 🔑 Key Achievements  
 1. **Centralized Platform**: Developed a unified system integrating hospital, lab, pharmacy, and insurance operations.  
 2. **Role-Based Access Control**: Implemented secure access based on user roles, ensuring data privacy and efficient functionality segregation.  
 3. **Scalable Architecture**: Designed a scalable backend architecture to handle concurrent user operations seamlessly.  
@@ -179,7 +179,7 @@ This system promotes seamless interaction among patients, doctors, staff, and ad
 
 ---
 
-### Impact  
+### 📊 Impact  
 1. **Improved Healthcare Accessibility**: Enabled patients to schedule appointments, view medical records, and access lab results conveniently online.  
 2. **Operational Efficiency**: Automated core hospital processes, reducing time and resource wastage for doctors, administrators, and lab staff.  
 3. **Data Security and Privacy**: Leveraged robust authentication mechanisms to protect sensitive medical and personal data.  
